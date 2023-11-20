@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Om-Beast
-- 👀 I’m interested in AI/ML
+- 👀 I’m interested in Software development
 - 🌱 I’m currently learning Python
 
 

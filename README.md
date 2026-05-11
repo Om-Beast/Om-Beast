@@ -5,15 +5,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Future+Software+Engineer" />
 </p>
-# Hi 👋 I'm Om Kesharwani
 
-## 🚀 Full Stack Developer | MERN Stack Learner
 
 I love building websites and solving real-world problems using code.
 
 ---
 
 ## 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind" />
+</p>
 
 ### Frontend
 - HTML
@@ -52,6 +53,8 @@ I love building websites and solving real-world problems using code.
 ---
 
 ## 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Om-Beast&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Beast&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Om-Beast&show_icons=true&theme=tokyonight)
 

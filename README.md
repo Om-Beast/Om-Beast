@@ -125,15 +125,6 @@ A product built around AI-assisted workflows, with the engineering focus on the 
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Om-Beast&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Beast&layout=compact&theme=default&hide_border=true" />
-</div>
-
-<br/>
-
 ## Competitive Programming
 
 - **Codeforces Specialist** — AIR 1066 in Codeforces Round 1086 (Div. 2)
